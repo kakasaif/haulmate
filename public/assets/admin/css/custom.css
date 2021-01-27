@@ -1,0 +1,134 @@
+#dropzone {
+  margin-bottom: 3rem;
+}
+
+.dropzone {
+  border: 2px dashed #0087f7;
+  border-radius: 5px;
+  background: white;
+}
+.dropzone .dz-message {
+  font-weight: 400;
+}
+.dropzone .dz-message .note {
+  font-size: 0.8em;
+  font-weight: 200;
+  display: block;
+  margin-top: 1.4rem;
+}
+
+.custom-control {
+  padding-left: 0;
+}
+.custom-control .custom-control-label {
+  padding-left: 30px;
+}
+
+.img-wrap {
+  position: relative;
+  display: inline-block;
+}
+.img-wrap .close {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  z-index: 100;
+}
+
+.dashboard {
+  position: relative;
+  padding-bottom: 50px;
+}
+.dashboard .filter {
+  margin-bottom: 32px;
+}
+.dashboard h2 {
+  font-size: 32px;
+  margin-top: 10px;
+  margin-bottom: 16px;
+}
+.dashboard table {
+  background: #fff;
+  margin-bottom: 0;
+}
+.dashboard #mapid {
+  height: 350px;
+}
+.dashboard .block {
+  background: #fff;
+  padding: 10px 15px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.2);
+}
+span.ok {
+  background: url('../../img/ok.svg') no-repeat center center;
+  background-size: auto;
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+  display: block;
+  margin: 0px auto;
+}
+span.cancel {
+  background: url('../../img/cancel.svg') no-repeat center center;
+  background-size: auto;
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+  display: block;
+  margin: 0px auto;
+}
+
+section.add {
+  background: #fff;
+  box-shadow: 0 0 20px 7px rgb(0 0 0 / 9%);
+  border-radius: 4px;
+  padding: 15px 15px;
+}
+section.add .innerRow {
+  margin-bottom: 1rem;
+}
+section.add .block .buttons {
+  /* margin-bottom: 1rem; */
+}
+section.add .block {
+  
+  margin-bottom: 15px;
+}
+section.add .blockRow:first-child {
+  border:none;
+}
+section.add .blockRow {
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+}
+section.add .blockRow .buttons {
+  /* margin-top: 56px; */
+}
+section.add .blockRow {
+  background: #fff;
+}
+section.add .blockRow:nth-child(even) {
+  background: #f7fafc;
+}
+section.add .block-text {
+  /* background: #fff; */
+}
+section.add label {
+  border-radius: 2px;
+  background: #ebf1f6;
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+  margin: 0px;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: left;
+  color: #415661;
+  position: relative;
+  cursor: pointer;
+}
+section.add .form-group {
+  display: flex;
+  margin-bottom: 0;
+}

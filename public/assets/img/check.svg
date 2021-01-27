@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>check-circle-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Profile" transform="translate(-1027.000000, -688.000000)">
+            <g id="Group-2-Copy-7" transform="translate(470.000000, 646.000000)">
+                <g id="filter-card-copy-5" transform="translate(540.000000, 29.000000)">
+                    <g id="check-circle-1" transform="translate(17.000000, 13.000000)">
+                        <circle id="Oval" fill="#0093E0" cx="12" cy="11.999" r="11.25"></circle>
+                        <path d="M6,13.223 L8.45,16.7 C8.63855494,16.981654 8.95157877,17.1548474 9.29036998,17.1649694 C9.62916119,17.1750915 9.95196645,17.0208948 10.157,16.751 L18,6.828" id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

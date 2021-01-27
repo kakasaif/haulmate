@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="25px" viewBox="0 0 22 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>list-to-do</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Account-Dashboard-(new)" transform="translate(-152.000000, -1335.000000)" stroke="#0093E0" stroke-width="1.5">
+            <g id="community-copy" transform="translate(135.000000, 1012.000000)">
+                <g id="list-to-do" transform="translate(18.000000, 323.000000)">
+                    <path d="M19.75,21.761 C19.75,22.5894271 19.0784271,23.261 18.25,23.261 L1.75,23.261 C0.921572875,23.261 0.25,22.5894271 0.25,21.761 L0.25,2.261 C0.25,1.43257288 0.921572875,0.761 1.75,0.761 L12.379,0.761 C12.7765472,0.761084881 13.1578016,0.918981752 13.439,1.2 L19.311,7.072 C19.5920182,7.35319839 19.7499151,7.73445279 19.75,8.132 L19.75,21.761 Z" id="Path"></path>
+                    <path d="M19.75,8.261 L13.75,8.261 C12.9215729,8.261 12.25,7.58942712 12.25,6.761 L12.25,0.761" id="Path"></path>
+                    <path d="M7.669,9.619 L5.537,12.461 C5.40649596,12.6347777 5.20702983,12.743403 4.99024781,12.7587504 C4.7734658,12.7740978 4.56068534,12.6946581 4.407,12.541 L3.25,11.385" id="Path"></path>
+                    <path d="M7.669,16.369 L5.537,19.211 C5.40649596,19.3847777 5.20702983,19.493403 4.99024781,19.5087504 C4.7734658,19.5240978 4.56068534,19.4446581 4.407,19.291 L3.25,18.134" id="Path"></path>
+                    <path d="M10.75,12.761 L15.25,12.761" id="Path"></path>
+                    <path d="M10.75,18.761 L15.25,18.761" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>filter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Property-(2)" transform="translate(-490.000000, -108.000000)" fill="#0093E0" fill-rule="nonzero">
+            <g id="filter" transform="translate(490.000000, 108.000000)">
+                <path d="M14.90152,0.487504 L1.097808,0.487504 C0.638432,0.487504 0.35156,0.988128 0.582184,1.387504 L4.943432,8.80128 L4.943432,13.31248 C4.943432,13.6444 5.20968,13.91248 5.539688,13.91248 L10.45968,13.91248 C10.78968,13.91248 11.05592,13.6444 11.05592,13.31248 L11.05592,8.80128 L15.41904,1.387504 C15.64784,0.988128 15.36096,0.487504 14.90152,0.487504 Z M9.71344,12.56248 L6.285936,12.56248 L6.285936,9.63752 L9.71528,9.63752 L9.71528,12.56248 L9.71344,12.56248 Z M9.89344,8.12624 L9.71528,8.43752 L6.284056,8.43752 L6.105936,8.12624 L2.387808,1.837504 L13.61152,1.837504 L9.89344,8.12624 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

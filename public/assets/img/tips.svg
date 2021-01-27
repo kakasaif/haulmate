@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6.834" height="10.251" viewBox="0 0 6.834 10.251">
+  <g id="Group_871" data-name="Group 871" transform="translate(-377 -424)">
+    <g id="Page-1" transform="translate(377 424)">
+      <g id="Artboard-Copy" transform="translate(0 0)">
+        <path id="bulb" d="M239,77.274a3.222,3.222,0,0,0,1.335,2.6l.5,1.24h3.15l.516-1.24a3.222,3.222,0,0,0,1.335-2.6,3.42,3.42,0,0,0-6.834,0Z" transform="translate(-239 -74.001)" fill="#fff821" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Page-1-2" data-name="Page-1" transform="translate(378.709 431.403)">
+      <g id="Artboard-Copy-2" data-name="Artboard-Copy" transform="translate(0 0)">
+        <path id="bulb-2" data-name="bulb" d="M241.535,83.751a.285.285,0,0,0-.284.285v.284a.284.284,0,0,0,.284.285h2.848a.284.284,0,0,0,.284-.285v-.284a.284.284,0,0,0-.284-.285Zm0,1.139a.284.284,0,0,0-.284.285v.284a.284.284,0,0,0,.284.285h2.848a.284.284,0,0,0,.284-.285v-.284a.284.284,0,0,0-.284-.285Zm.57,1.139a.284.284,0,1,0,0,.569h1.708a.284.284,0,1,0,0-.569Z" transform="translate(-241.25 -83.751)" fill="#415661" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

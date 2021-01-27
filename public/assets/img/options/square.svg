@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>ruler</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Partner-Property" transform="translate(-1177.000000, -485.000000)" stroke="#0093E0" stroke-width="1.5">
+            <g id="Group" transform="translate(847.000000, 142.000000)">
+                <g id="ruler" transform="translate(330.000000, 343.000000)">
+                    <path d="M13.591,4.045 L15.712,6.166" id="Path"></path>
+                    <path d="M10.409,7.227 L12.53,9.348" id="Path"></path>
+                    <path d="M7.227,10.409 L9.348,12.53" id="Path"></path>
+                    <path d="M4.045,13.591 L6.166,15.712" id="Path"></path>
+                    <rect id="Rectangle" transform="translate(11.999563, 12.000000) rotate(-45.000000) translate(-11.999563, -12.000000) " x="-0.000437251523" y="7.5" width="24" height="9" rx="1.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
